@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Strong_Strings_Example' do
+  pod 'Strong_Strings', :path => '../'
+
+  target 'Strong_Strings_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
