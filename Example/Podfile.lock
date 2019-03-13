@@ -1,0 +1,16 @@
+PODS:
+  - Strong_Strings (0.1.0)
+
+DEPENDENCIES:
+  - Strong_Strings (from `../`)
+
+EXTERNAL SOURCES:
+  Strong_Strings:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Strong_Strings: fcc2573efd641c2284096d5e6e65b36e6d3c283f
+
+PODFILE CHECKSUM: 748e1408552540222971e8f0b08ea6e43acbdc3c
+
+COCOAPODS: 1.6.0.beta.2

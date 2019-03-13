@@ -1,0 +1,22 @@
+{
+  "name": "Strong_Strings",
+  "version": "0.1.0",
+  "summary": "A short description of Strong_Strings.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hadevs/Strong_Strings",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hadevs": "hhadevs@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hadevs/Strong_Strings.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Strong_Strings/Classes/**/*"
+}

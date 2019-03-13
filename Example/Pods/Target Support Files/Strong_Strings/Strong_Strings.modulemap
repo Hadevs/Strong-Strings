@@ -1,0 +1,6 @@
+framework module Strong_Strings {
+  umbrella header "Strong_Strings-umbrella.h"
+
+  export *
+  module * { export * }
+}
