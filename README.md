@@ -10,3 +10,5 @@ Powerfull framework, which helps you to work with strings. 100% test coverage
 
 ## How to install:
 ### Cocoapods
+`pod 'Strong_Strings'` inside your Podfile.
+And run `pod install`
